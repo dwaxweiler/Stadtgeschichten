@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF5252</color>
+    <color name="button">#B2DFDB</color>
+    <color name="primary">#009688</color>
+    <color name="text">#000000</color>
+    <color name="windowBackground">#FFFFFF</color>
+</resources>

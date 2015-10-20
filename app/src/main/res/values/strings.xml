@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Stadtgeschichten</string>
+
+    <!-- Common -->
+    <string name="stop">Stop</string>
+
+    <!-- MainActivity -->
+    <string name="story">Story</string>
+    <string name="help">Help</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stories_read_failure">The stories could not be read.</string>
+
+    <!-- LogActivity -->
+    <string name="title_activity_log">Log</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="export">Export</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="creating_file_success">Saved</string>
+    <string name="creating_file_failure">An error occurred while creating the file.</string>
+    <string name="external_storage_unavailable">The external storage is not available.</string>
+
+    <!-- Logging -->
+    <string name="log_file_creation_failure">The app could not create a log file.</string>
+    <string name="log_file_writing_failure">The app could not write to its log file.</string>
+</resources>
