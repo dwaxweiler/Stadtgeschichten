@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT story (introaudio, record, spots)>
+<!ATTLIST story title CDATA #REQUIRED>
+<!ELEMENT introaudio (#PCDATA)>
+<!ELEMENT spots (spot*)>
+<!ELEMENT spot (toaudio?, onaudio, record)>
+<!ATTLIST spot latitude CDATA #REQUIRED>
+<!ATTLIST spot longitude CDATA #REQUIRED>
+<!ATTLIST spot title CDATA #IMPLIED>
+<!ELEMENT toaudio (#PCDATA)>
+<!ELEMENT onaudio (#PCDATA)>
+<!ELEMENT record (#PCDATA)>
