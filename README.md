@@ -147,7 +147,12 @@ Then, it is also hard to form a mental model of the circle and being lead to the
 Finally, volume changes can often not be perceived.
 
 
-### Future work
+### Known bugs
+* The title of circles and the transcript of audio files are not shown when the screen is turned off.
+
+
+
+## Future work
 Future work could be done in a few areas.
 
 The story design possibilities could be elaborated.
@@ -161,7 +166,3 @@ The story could then be directly published to be found and downloaded within the
 The limitations of the current version could also be tackled by a complete rethinking and rewriting of the exchange format and mobile application.
 A few improvements ideas are provided beneath each limitation description above.
 At the end or already during development, a user study could be run to test the experience.
-
-
-### Known bugs
-* The title of circles and the transcript of audio files are not shown when the screen is turned off.
