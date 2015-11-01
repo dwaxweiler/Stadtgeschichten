@@ -1,6 +1,8 @@
 # Stadtgeschichten 
 location-aware radio drama Android app
 
+released under The MIT License, see LICENSE.txt file for more details
+
 As devices with an integrated GPS sensor like smartphones and tablets are constantly becoming more ubiquitous and as most devices support the playback of audio files, new ways of story telling may emerge.
 Here, a prototype of a mobile application enabling authors to create audio guides that trigger the playback of audio fragments upon visitation of pre-defined spots is presented.
 
