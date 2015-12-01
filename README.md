@@ -3,6 +3,8 @@ location-aware radio drama Android app
 
 released under The MIT License, see LICENSE.txt file for more details
 
+No stories and no app icons are included! When you create a story, put its folder under `Stadtgeschichten\app\src\main\assets\stories` (see below for more details). When you create an icon, put it with the name `icon.png` in different resolution folders under `Stadtgeschichten\app\src\main\res` (`drawable-ldpi`, `drawable-mdpi`, `drawable-hdpi`...)
+
 As devices with an integrated GPS sensor like smartphones and tablets are constantly becoming more ubiquitous and as most devices support the playback of audio files, new ways of story telling may emerge.
 Here, a prototype of a mobile application enabling authors to create audio guides that trigger the playback of audio fragments upon visitation of pre-defined spots is presented.
 
