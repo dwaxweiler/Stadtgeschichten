@@ -27,7 +27,7 @@ The storyteller can also create a puzzle by letting the user search the next des
 
 A few helping features are offered for the case the user gets lost.
 If the listener has missed a detail, e.g. due to the noise of a passing by truck, he can look up the transcript on the device.
-If the listener does not know where to go next, he can look the destination up using an external app like \emph{Google Maps}.
+If the listener does not know where to go next, he can look the destination up using an external app like *Google Maps*.
 This external app could also guide the user to this place.
 
 This concept is open for every classical genre, including urban fantasy, detective novel and love story, but it may also induce the raise of completely new genres.
