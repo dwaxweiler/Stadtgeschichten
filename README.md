@@ -1,7 +1,9 @@
 # Stadtgeschichten 
-location-aware radio drama Android app
+prototype of a location-aware radio drama Android app
 
 released under The MIT License, see LICENSE.txt file for more details
+
+developed during summer term 2015 at "Hochschule der Bildenden Künste Saar" HBKsaar
 
 No stories and no app icons are included! When you create a story, put its folder under `Stadtgeschichten\app\src\main\assets\stories` (see below for more details). When you create an icon, put it with the name `icon.png` in different resolution folders under `Stadtgeschichten\app\src\main\res` (`drawable-ldpi`, `drawable-mdpi`, `drawable-hdpi`...)
 
